@@ -1,7 +1,4 @@
-# easy-portfolio
-Hello! At this tutorial I teach how to make a simple website using only HTML and CSS! 
-You can see the video [here](https://www.youtube.com/watch?v=n_Etdr7Dbjs)
-Hope you enjoy it!
+
 
 ## Start
 
@@ -9,12 +6,10 @@ Hope you enjoy it!
 Don't need to do anything :)
 
 ## Authors
-Adriana Saty 
+Jose Leonardo Perez
 
 
 ## Follow me:
-I also do content at [Twitch](https://www.twitch.tv/adrianasaty).
-[Youtube](https://www.youtube.com/channel/UCPhVBS-1Uy-wIzj4hmjkcmA)
-and [Instagram](https://www.instagram.com/adriana.saty/)
+facebook https://www.facebook.com/jose.l.perez.520900/
 
 
